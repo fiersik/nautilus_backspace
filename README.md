@@ -1,5 +1,9 @@
 # nautilus backspace
 
+
+> [!WARNING]
+> Репозиторий перемещён в [alt-gnome-team](https://github.com/alt-gnome-team/nautilus_backspace), обновления будут выходить только там.
+
 > [!NOTE]
 > Идея принадлежит [riclc](https://github.com/riclc), увы, но автор забросил свой аккаунт.
 
